@@ -1,0 +1,1538 @@
+.footer{
+   
+    background-color: #282A35;
+    height: 1450px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.php{
+    background-color: pink;
+    padding-top: 25px;
+    height: 250px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: center;
+    border-radius: 10px;
+    float: left;
+    
+}
+.php_button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    
+}
+.jq{
+    background-color: #FFF4A3;
+    padding-top: 25px;
+    height: 250px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    float: left;
+}
+.jq_button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+    height: 30px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.java{
+    background-color: #F3ECEA;
+    padding-top: 25px;
+    height: 250px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: center;
+    border-radius: 10px;
+    float: right;
+    
+}
+.java_button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+    height: 30px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.cpp{
+    background-color: #D9EEE1;
+    padding-top: 25px;
+    height: 250px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    float: right;
+}
+.cpp_button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+    height: 30px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.w3{
+    background-color: #96D4D4;
+    padding-top: 25px;
+    height: 250px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    float: left;
+}
+.w3_button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+    height: 30px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.boot{
+    background-color: #E7E9EB;
+    padding-top: 25px;
+    height: 250px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    float: left;
+}
+.boot_button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+    height: 30px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.c{
+    background-color: #FFC0C7;
+    padding-top: 25px;
+    height: 150px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+.csharp{
+    background-color: #FFF4A3;
+    padding-top: 25px;
+    height: 150px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+
+
+
+.footer2{
+    background-color: #282A35;
+    height: 1500px;
+    padding-top: 20px;
+    width: 100%;
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+
+
+
+.r{
+  background-color: white;
+  height: 80px;
+  width: 250px;
+  padding-top: 20px;
+  text-align: center;
+  margin-left: 105px;
+  margin-top: 20px;
+  border-radius: 10px;
+
+}
+
+.kotlin{
+    background-color: #D9EEE1;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.nj{
+    background-color: #96D4D4;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 105px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.react{
+    background-color: #FFC0C7;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 20px;
+    border-radius: 10px;
+   
+}
+
+
+
+
+
+
+
+
+.json{
+    background-color: #FFF4A3;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 105px;
+    margin-top: 1px;
+    border-radius: 10px;
+   
+
+}
+.vue{
+    background-color: #F3ECEA;
+    height: 90px;
+    width: 250px;
+    padding-top: 10;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+   
+}
+.mysql{
+    background-color: #D9EEE1;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 105px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.xml{
+    background-color: #96D4D4;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+.sass{
+    background-color: #FFC0C7;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 105px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.icons{
+    background-color: #FFF4A3;
+    height: 90px;
+    width: 250px;
+    padding-top:10px ;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.rwd{
+    background-color: #F3ECEA;
+    height: 90px;
+    width: 250px;
+    padding-top:10px ;
+    text-align: center;
+    margin-left: 105px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.graphics{
+    background-color: white;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+.svg{
+    background-color: #96D4D4;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 105px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.canvas{
+    background-color: #FFC0C7;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.pi{
+    background-color: #FFF4A3;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 105px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.cybersecurity{
+    background-color: #F3ECEA;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+.color{
+    background-color: #D9EEE1;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+}
+.git{
+    background-color: #96D4D4;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 80px;
+    text-align: center;
+    border-radius: 10px;
+}
+.pandas{
+    background-color: #F3ECEA;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+}
+.scipy{
+    background-color:#D9EEE1;
+    height: 90px;
+    width: 250px;
+    padding-top:10px ;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+.asp{
+    background-color: #96D4D4;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+.angular{
+    background-color: #FFC0C7;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 80px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+.appml{
+    background-color: #FFF4A3;
+    
+    height:90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+}
+.go{
+    background-color: #F3ECEA;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.ts{
+    background-color: #D9EEE1;
+    
+    height: 90px;
+    padding-top: 10px;
+    width: 250px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+}
+.django{
+    background-color:#96D4D4;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 80px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+.mongodb{
+    background-color: #FFC0C7;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+}
+.statistics{
+    background-color: #FFF4A3;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+.ds{
+    background-color: #F3ECEA;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+.typing{
+    background-color: #E7E9EB;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 80px;
+    text-align: center;
+    border-radius: 10px;
+}
+.how{
+    background-color: #96D4D4;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px
+}
+.codegame{
+    background-color: #FFC0C7;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+.spaces{
+    background-color: #96D4D4;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+}
+.post{
+    background-color: #F3ECEA;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 80px;
+    
+    text-align: center;
+    border-radius: 10px;
+}
+.mat{
+    background-color: #FFC0C7;
+    
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px
+
+}
+.numpy{
+
+    background-color: #FFF4A3;
+    height: 90px;
+    width: 250px;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 1px;
+    
+    border-radius: 10px;
+
+}
+
+
+.footer3{
+    background-color: #282A35;
+    height: 600px;
+    padding-top: 0px;
+    width: 100%;
+    display: grid;
+    justify-content: space-between;
+    font-family:   sans-serif;
+    
+    
+    
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.excel{
+    background-color: #96D4D4;
+    padding-top: 25px;
+    height: 150px;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    font-family:  sans-serif;
+}
+.dsa{
+    background-color: #FFF4A3;
+    padding-top: 25px;
+    height: 150px;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+.ml{
+    background-color: pink;
+    padding-top: 25px;
+    height: 150px;
+    width: 600px;
+    margin-top: -20px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.al{
+    background-color: #E7E9EB;
+    padding-top: 25px;
+    height: 150px;
+    width: 600px;
+    margin-top: -20px;
+    margin-left: 110px;
+    text-align: center;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+@media screen and (max-width:930px) {
+   
+    .footer{
+        
+        grid-template-columns: auto ;
+        height: auto;
+        width: auto;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .php{
+        grid-template-columns: auto;
+        height: auto;
+        width: 600px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .jq{
+        grid-template-columns: auto;
+        height: auto;
+        width: 600px;
+        padding-bottom: 10px;
+        margin:10px
+
+    }
+    .java{
+        grid-template-columns: auto;
+        height: auto;
+        width: 600px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .cpp{
+        grid-template-columns: auto;
+        height: auto;
+        width: 600px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .w3{
+        grid-template-columns: auto;
+        height: auto;
+        width: 600px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+
+    .boot{
+        grid-template-columns: auto;
+        height: auto;
+        width: 600px;
+        padding-bottom: 10px;
+        margin:10px 
+    }
+    .c{
+        grid-template-columns: auto;
+        height: auto;
+        width: 600px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .csharp{
+        grid-template-columns: auto;
+        height: auto;
+        width: 600px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+
+    .footer2{
+        
+        grid-template-columns:auto auto ;
+        height: auto;
+        width: auto;
+        justify-content: space-between;
+        
+
+    }
+    .r{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .kotlin{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+        
+    }
+    .nj{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+        
+    }
+    .react{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+        
+    }
+    .json{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .vue{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .mysql{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .xml{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .sass{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .icons{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .rwd{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .graphics{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .svg{
+
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .canvas{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .pi{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .cybersecurity{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .color{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .git{
+
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .pandas{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .scipy{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .asp{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .angular{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .appml{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+        
+    }
+    .go{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .ts{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .django{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .mongodb{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .statistics{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .ds{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .typing{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .how{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .codegame{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .spaces{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .post{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .mat{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .numpy{
+        grid-template-columns: auto;
+        height: auto;
+        width: 300px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+       
+   
+    .footer3{
+        
+        grid-template-columns: auto;
+        height: auto;
+        width: auto;
+       
+        
+        
+    }
+
+    .excel{
+        grid-template-columns: auto;
+        height: auto;
+        width: 725px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .dsa{
+        grid-template-columns: auto;
+            height: auto;
+            width: 725px;
+            padding-bottom: 10px;
+            margin:10px
+    }
+    .ml{
+         grid-template-columns: auto;
+            height: auto;
+            width: 725px;
+            padding-bottom: 10px;
+            margin:10px
+    }
+    .al{
+            grid-template-columns: auto;
+            height: auto;
+            width: 725px;
+            padding-bottom: 10px;
+            margin:10px
+    }
+    
+   
+    
+}
+@media screen and (max-width:600px) {
+   
+    .footer{
+        
+        grid-template-columns: auto  ;
+        height: auto;
+        width: auto;
+        
+       
+        
+    }
+    .php{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .jq{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-bottom: 10px;
+        margin:10px
+
+    }
+    .java{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .cpp{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .w3{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+
+    .boot{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-bottom: 10px;
+        margin:10px 
+    }
+    .c{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .csharp{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+
+    .footer2{
+        
+        grid-template-columns:auto   ;
+        height: auto;
+        width: auto;
+        
+        
+        
+        
+    }
+    .r{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .kotlin{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px
+
+        
+    }
+    .nj{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px
+        
+    }
+    .react{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .json{
+        grid-template-columns: auto;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px
+    }
+    .vue{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+
+    .mysql{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .xml{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .sass{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .icons{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+   .rwd{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .graphics{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .svg{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .canvas{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .pi{ grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .cybersecurity{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .color{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .git{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .pandas{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .scipy{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .asp{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .angular{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .appml{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .go{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .ts{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+
+    }
+    .django{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px; 
+    }
+    .mongodb{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .statistics{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .ds{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .typing{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .how{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .codegame{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .spaces{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .post{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .mat{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .numpy{
+        grid-template-columns:auto ;
+        height: auto;
+        width: 450px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        margin:10px;
+    }
+    .footer3{
+        
+        grid-template-columns: auto;
+        height: auto;
+        width: auto;
+       
+        
+        
+    }
+    .excel{
+        grid-template-columns: auto;
+        height: auto;
+        width: 470px;
+        
+        margin:10px
+    }
+    .dsa{
+        grid-template-columns: auto;
+            height: auto;
+            width:470px;
+            
+            margin:10px
+    }
+    .ml{
+         grid-template-columns: auto;
+            height: auto;
+            width: 470px;
+            
+            margin:10px
+    }
+    .al{
+            grid-template-columns: auto;
+            height: auto;
+            width: 470px;
+            
+            margin:10px
+    }
+    
+    
+   
+    
+}
